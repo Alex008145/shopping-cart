@@ -2,6 +2,10 @@
 
 Simple app for learning React + TypeScript (with Bootstrap)
 
+# Live Prewiew
+
+https://shopping-cart-ten-nu.vercel.app/store
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
