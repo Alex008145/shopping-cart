@@ -4,7 +4,7 @@ Simple app for learning React + TypeScript (with Bootstrap)
 
 # Live Prewiew
 
-https://shopping-cart-juuutn15d-alex008145s-projects.vercel.app
+https://shopping-cart-ten-nu.vercel.app/
 
 # React + TypeScript + Vite
 
